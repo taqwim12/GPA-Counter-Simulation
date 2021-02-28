@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567880241 source:d:\codeblocks projects\gpa counter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1614523138 source:d:\[coding] codeblocks projects\gpa counter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
